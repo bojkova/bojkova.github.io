@@ -1,2 +1,1 @@
-# bojkova.github.io
-Website
+# https://bojkova.github.io
