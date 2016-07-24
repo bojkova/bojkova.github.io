@@ -1,0 +1,8 @@
+img{max-width:100%;height:auto;}
+a.arrow{display:inline-block;background-color:#fff;color:#aaf;text-decoration:none;font-size:24px;}
+a.arrow:hover{background-color:#eff;color:#44f;}
+
+h1{font-size:2em;margin:.67em 0;}
+h2{font-size:1.5em;margin:1.5em 0 .75em 0;}
+h3{font-size:1.17em;margin:1.5em 0 .75em 0;font-style:italic;}
+p{margin:.5em 0;text-indent:1.5em;}
